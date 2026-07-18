@@ -1,4 +1,4 @@
-Il file da runnare e' run_toy(1), viene caricata una mappa dalla cartella bathymetry maps, attualmente in uso una di quelle in formato jpg, ma c'e' anche quella vera in formato .tif .
+Il file da runnare e' run_toy, viene caricata una mappa dalla cartella bathymetry maps, attualmente in uso una di quelle in formato jpg, ma c'e' anche quella vera in formato .tif .
 
 vengono create delle traiettorie e da queste ne prendiamo 2:
  - quella con profondita' media inferiore viene adoperata come punto di partenza per Pigeons
