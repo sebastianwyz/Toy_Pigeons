@@ -7,7 +7,7 @@ using Images: load, Gray, channelview
 using Plots
 using Dates
 
-include("run_toy.jl")
+include("toy.jl")
 gr()
 Random.seed!(1274)
 
